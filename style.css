@@ -51,3 +51,12 @@ ul {
 footer .img {
     width: 50px;
 }
+
+footer .a {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    text-decoration: none;
+    list-style-type: none;
+    color: black;
+}
